@@ -9,6 +9,6 @@ d=a[0:1]
 
 e = c + d + b
 
-
-
 print(e)
+
+# By Patrick Bowden
